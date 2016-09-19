@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetC1_U_EMI_Prot_1_1 Pin=Bat-2
+Removed Pin From Net: NetName=NetC1_U_EMI_Prot_1_1 Pin=Cbat1-2
+Removed Pin From Net: NetName=NetC1_U_EMI_Prot_1_1 Pin=Cbat2-2
+Added Pin To Net: NetName=NetC1_U_EMI_Prot_1_1 Pin=BAT_IN-2
+Change Net Name : Old Net Name=NetC1_U_EMI_Prot_1_1 New Net Name=NetBAT_IN_2

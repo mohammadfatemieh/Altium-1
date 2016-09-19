@@ -1,0 +1,581 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\irenem.lopezcarron\Documents\Altium\HMI3D_PCB1\Circuit.PcbDoc
+Date     : 06/09/2016
+Time     : 15:27:58
+
+Processing Rule : Room U_Power_Sources (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_Power_Sources'))
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+Rule Violations :8
+
+Processing Rule : Room U_LIN (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_LIN'))
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+Rule Violations :7
+
+Processing Rule : Room U_Header_Conn (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_Header_Conn'))
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+Rule Violations :2
+
+Processing Rule : Room U_EMI_Prot_Circ3 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_EMI_Prot_Circ3'))
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+Rule Violations :4
+
+Processing Rule : Room U_EMI_Prot_Circ2 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_EMI_Prot_Circ2'))
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+Rule Violations :4
+
+Processing Rule : Room U_EMI_Prot_Circ1 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_EMI_Prot_Circ1'))
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+Rule Violations :3
+
+Processing Rule : Room U_EMI_Prot_2 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_EMI_Prot_2'))
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+Rule Violations :4
+
+Processing Rule : Room U_EMI_Prot_1 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_EMI_Prot_1'))
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+Rule Violations :2
+
+Processing Rule : Room U_Circuit_comp (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_Circuit_comp'))
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+Rule Violations :11
+
+Processing Rule : Room U_5v_REG_2 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_5v_REG_2'))
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+Rule Violations :10
+
+Processing Rule : Room U_5v_REG_1 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_5v_REG_1'))
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+Rule Violations :4
+
+Processing Rule : Room CAN2 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('CAN2'))
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+Rule Violations :12
+
+Processing Rule : Room CAN1 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('CAN1'))
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+Rule Violations :12
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+   Violation between Net Antennae: Track (319.5mm,213.1mm)(319.5mm,230.85mm)  Top Layer
+Rule Violations :1
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+   Violation between Text "C2_U_EMI_Prot_1" (331.318mm,240.259mm)  Top Overlay and 
+                     Track (340.55mm,241.75mm)(341.35mm,241.75mm)  Top Overlay
+   Violation between Text "C2_U_EMI_Prot_1" (331.318mm,240.259mm)  Top Overlay and 
+                     Track (340.55mm,241.75mm)(340.55mm,248.45mm)  Top Overlay
+   Violation between Text "PMOS_U_EMI_Prot_Circ1" (315.4mm,244.5mm)  Top Overlay and 
+                     Track (340.55mm,241.75mm)(340.55mm,248.45mm)  Top Overlay
+   Violation between Text "R1" (285.3mm,252.7mm)  Top Overlay and 
+                     Track (284.11mm,254.6mm)(291.6mm,254.6mm)  Top Overlay
+   Violation between Text "PESD1CAN" (289.3mm,246.3mm)  Top Overlay and 
+                     Track (289.4mm,248mm)(289.9mm,248mm)  Top Overlay
+   Violation between Text "PESD1CAN" (289.3mm,246.3mm)  Top Overlay and 
+                     Track (289.9mm,248mm)(289.9mm,248.8mm)  Top Overlay
+   Violation between Text "LFerr_M_U_EMI_Prot_Circ1" (316.5mm,258.1mm)  Top Overlay and 
+                     Text "PMOS_U_EMI_Prot_Circ1" (315.4mm,244.5mm)  Top Overlay
+   Violation between Text "LFerr_M_U_EMI_Prot_Circ1" (316.5mm,258.1mm)  Top Overlay and 
+                     Text "C2_EPC" (309.1mm,250.9mm)  Top Overlay
+   Violation between Text "L1_U_5v_REG_1" (405.613mm,267.919mm)  Top Overlay and 
+                     Text "TanCap3_U_5v_REG_1" (395.046mm,267.868mm)  Top Overlay
+   Violation between Text "TanCap1_U_5v_REG_1" (375.945mm,267.564mm)  Top Overlay and 
+                     Text "TanCap3_U_5v_REG_1" (395.046mm,267.868mm)  Top Overlay
+   Violation between Text "TanCap2_U_5v_REG_1" (385.242mm,267.665mm)  Top Overlay and 
+                     Text "TanCap3_U_5v_REG_1" (395.046mm,267.868mm)  Top Overlay
+   Violation between Text "L1_U_5v_REG_1" (405.613mm,267.919mm)  Top Overlay and 
+                     Text "TanCap2_U_5v_REG_1" (385.242mm,267.665mm)  Top Overlay
+   Violation between Text "TanCap1_U_5v_REG_1" (375.945mm,267.564mm)  Top Overlay and 
+                     Text "TanCap2_U_5v_REG_1" (385.242mm,267.665mm)  Top Overlay
+   Violation between Text "C2_U_EMI_Prot_1" (331.318mm,240.259mm)  Top Overlay and 
+                     Text "LFer_Lai_U_EMI_Prot_1" (343.205mm,238.76mm)  Top Overlay
+   Violation between Text "C13" (146.916mm,317.287mm)  Top Overlay and 
+                     Text "C36" (150.404mm,317.495mm)  Top Overlay
+   Violation between Text "C1_U_5v_REG_1" (352.603mm,272.948mm)  Top Overlay and 
+                     Text "C4_U_5v_REG_1" (367.894mm,273.05mm)  Top Overlay
+   Violation between Text "C2_U_5v_REG_1" (357.911mm,273.152mm)  Top Overlay and 
+                     Text "C4_U_5v_REG_1" (367.894mm,273.05mm)  Top Overlay
+   Violation between Text "C3_U_5v_REG_1" (362.915mm,273.152mm)  Top Overlay and 
+                     Text "C4_U_5v_REG_1" (367.894mm,273.05mm)  Top Overlay
+   Violation between Text "C1_U_5v_REG_1" (352.603mm,272.948mm)  Top Overlay and 
+                     Text "C3_U_5v_REG_1" (362.915mm,273.152mm)  Top Overlay
+   Violation between Text "C2_U_5v_REG_1" (357.911mm,273.152mm)  Top Overlay and 
+                     Text "C3_U_5v_REG_1" (362.915mm,273.152mm)  Top Overlay
+   Violation between Text "C1_U_5v_REG_1" (352.603mm,272.948mm)  Top Overlay and 
+                     Text "C2_U_5v_REG_1" (357.911mm,273.152mm)  Top Overlay
+Rule Violations :21
+
+Processing Rule : Silkscreen Over Component Pads (Clearance=0.254mm) (All),(All)
+   Violation between Pad LM2678-5_U_5v_REG_1-GND(429.2mm,241mm)  Multi-Layer and 
+                     Arc (429.2mm,241mm)  Top Overlay
+   Violation between Pad CMC2-IN1(173.1mm,257.8mm)  Top Layer and 
+                     Arc (173.888mm,258.929mm)  Top Overlay
+   Violation between Pad CMC-IN1(284.1mm,258.8mm)  Top Layer and 
+                     Arc (284.888mm,259.929mm)  Top Overlay
+   Violation between Pad LM2678-5_U_5v_REG_2-GND(435.6mm,343mm)  Multi-Layer and 
+                     Arc (435.6mm,343mm)  Top Overlay
+   Violation between Track (425.771mm,244.683mm)(425.771mm,245.445mm)  Top Overlay and 
+                     Pad LM2678-5_U_5v_REG_1-GND(429.2mm,241mm)  Multi-Layer
+   Violation between Track (425.644mm,245.318mm)(425.771mm,245.445mm)  Top Overlay and 
+                     Pad LM2678-5_U_5v_REG_1-GND(429.2mm,241mm)  Multi-Layer
+   Violation between Track (425.771mm,236.809mm)(425.771mm,244.683mm)  Top Overlay and 
+                     Pad LM2678-5_U_5v_REG_1-GND(429.2mm,241mm)  Multi-Layer
+   Violation between Track (432.477mm,235.641mm)(432.477mm,246.41mm)  Top Overlay and 
+                     Pad LM2678-5_U_5v_REG_1-GND(429.2mm,241mm)  Multi-Layer
+   Violation between Track (427.498mm,235.641mm)(430.191mm,235.641mm)  Top Overlay and 
+                     Pad LM2678-5_U_5v_REG_1-GND(429.2mm,241mm)  Multi-Layer
+   Violation between Track (424.806mm,246.41mm)(425.771mm,245.445mm)  Top Overlay and 
+                     Pad LM2678-5_U_5v_REG_1-GND(429.2mm,241mm)  Multi-Layer
+   Violation between Track (424.755mm,235.793mm)(425.771mm,236.809mm)  Top Overlay and 
+                     Pad LM2678-5_U_5v_REG_1-GND(429.2mm,241mm)  Multi-Layer
+   Violation between Track (418.024mm,236.809mm)(425.771mm,236.809mm)  Top Overlay and 
+                     Pad LM2678-5_U_5v_REG_1-GND(429.2mm,241mm)  Multi-Layer
+   Violation between Track (418.227mm,245.318mm)(425.644mm,245.318mm)  Top Overlay and 
+                     Pad LM2678-5_U_5v_REG_1-GND(429.2mm,241mm)  Multi-Layer
+   Violation between Track (417.008mm,235.641mm)(427.498mm,235.641mm)  Top Overlay and 
+                     Pad LM2678-5_U_5v_REG_1-GND(429.2mm,241mm)  Multi-Layer
+   Violation between Track (430.191mm,235.641mm)(432.477mm,235.641mm)  Top Overlay and 
+                     Pad LM2678-5_U_5v_REG_1-GND(429.2mm,241mm)  Multi-Layer
+   Violation between Track (431.155mm,337.793mm)(432.171mm,338.809mm)  Top Overlay and 
+                     Pad LM2678-5_U_5v_REG_2-GND(435.6mm,343mm)  Multi-Layer
+   Violation between Track (432.171mm,346.683mm)(432.171mm,347.445mm)  Top Overlay and 
+                     Pad LM2678-5_U_5v_REG_2-GND(435.6mm,343mm)  Multi-Layer
+   Violation between Track (431.206mm,348.41mm)(432.171mm,347.445mm)  Top Overlay and 
+                     Pad LM2678-5_U_5v_REG_2-GND(435.6mm,343mm)  Multi-Layer
+   Violation between Track (432.044mm,347.318mm)(432.171mm,347.445mm)  Top Overlay and 
+                     Pad LM2678-5_U_5v_REG_2-GND(435.6mm,343mm)  Multi-Layer
+   Violation between Track (432.171mm,338.809mm)(432.171mm,346.683mm)  Top Overlay and 
+                     Pad LM2678-5_U_5v_REG_2-GND(435.6mm,343mm)  Multi-Layer
+   Violation between Track (433.898mm,337.641mm)(436.591mm,337.641mm)  Top Overlay and 
+                     Pad LM2678-5_U_5v_REG_2-GND(435.6mm,343mm)  Multi-Layer
+   Violation between Track (436.591mm,337.641mm)(438.877mm,337.641mm)  Top Overlay and 
+                     Pad LM2678-5_U_5v_REG_2-GND(435.6mm,343mm)  Multi-Layer
+   Violation between Track (438.877mm,337.641mm)(438.877mm,348.41mm)  Top Overlay and 
+                     Pad LM2678-5_U_5v_REG_2-GND(435.6mm,343mm)  Multi-Layer
+   Violation between Track (423.408mm,337.641mm)(433.898mm,337.641mm)  Top Overlay and 
+                     Pad LM2678-5_U_5v_REG_2-GND(435.6mm,343mm)  Multi-Layer
+   Violation between Track (424.424mm,338.809mm)(432.171mm,338.809mm)  Top Overlay and 
+                     Pad LM2678-5_U_5v_REG_2-GND(435.6mm,343mm)  Multi-Layer
+   Violation between Track (424.627mm,347.318mm)(432.044mm,347.318mm)  Top Overlay and 
+                     Pad LM2678-5_U_5v_REG_2-GND(435.6mm,343mm)  Multi-Layer
+   Violation between Track (282.8mm,252.925mm)(283.2mm,252.925mm)  Top Overlay and 
+                     Pad R1-1(283.95mm,253.5mm)  Top Layer
+   Violation between Track (282.8mm,254.075mm)(283.2mm,254.075mm)  Top Overlay and 
+                     Pad R1-1(283.95mm,253.5mm)  Top Layer
+   Violation between Track (282.8mm,252.925mm)(283.2mm,252.925mm)  Top Overlay and 
+                     Pad R1-2(282.05mm,253.5mm)  Top Layer
+   Violation between Track (282.8mm,254.075mm)(283.2mm,254.075mm)  Top Overlay and 
+                     Pad R1-2(282.05mm,253.5mm)  Top Layer
+   Violation between Track (297.775mm,254.8mm)(297.775mm,255.2mm)  Top Overlay and 
+                     Pad R3-1(297.2mm,254.05mm)  Top Layer
+   Violation between Track (296.625mm,254.8mm)(296.625mm,255.2mm)  Top Overlay and 
+                     Pad R3-1(297.2mm,254.05mm)  Top Layer
+   Violation between Track (297.775mm,254.8mm)(297.775mm,255.2mm)  Top Overlay and 
+                     Pad R3-2(297.2mm,255.95mm)  Top Layer
+   Violation between Track (296.625mm,254.8mm)(296.625mm,255.2mm)  Top Overlay and 
+                     Pad R3-2(297.2mm,255.95mm)  Top Layer
+   Violation between Track (329.825mm,340.9mm)(329.825mm,343.7mm)  Top Overlay and 
+                     Pad LFer_Lai_U_EMI_Prot_2-2(332.4mm,344.95mm)  Top Layer
+   Violation between Track (334.975mm,340.9mm)(334.975mm,343.7mm)  Top Overlay and 
+                     Pad LFer_Lai_U_EMI_Prot_2-2(332.4mm,344.95mm)  Top Layer
+   Violation between Track (329.825mm,340.9mm)(329.825mm,343.7mm)  Top Overlay and 
+                     Pad LFer_Lai_U_EMI_Prot_2-1(332.4mm,339.65mm)  Top Layer
+   Violation between Track (334.975mm,340.9mm)(334.975mm,343.7mm)  Top Overlay and 
+                     Pad LFer_Lai_U_EMI_Prot_2-1(332.4mm,339.65mm)  Top Layer
+   Violation between Text "C2_U_EMI_Prot_2" (311.81mm,359.435mm)  Top Overlay and 
+                     Pad PMOS_U_EMI_Prot_2-S(329.971mm,359.25mm)  Top Layer
+   Violation between Track (343.725mm,232.3mm)(343.725mm,235.1mm)  Top Overlay and 
+                     Pad LFer_Lai_U_EMI_Prot_1-2(346.3mm,236.35mm)  Top Layer
+   Violation between Track (348.875mm,232.3mm)(348.875mm,235.1mm)  Top Overlay and 
+                     Pad LFer_Lai_U_EMI_Prot_1-2(346.3mm,236.35mm)  Top Layer
+   Violation between Track (343.725mm,232.3mm)(343.725mm,235.1mm)  Top Overlay and 
+                     Pad LFer_Lai_U_EMI_Prot_1-1(346.3mm,231.05mm)  Top Layer
+   Violation between Track (348.875mm,232.3mm)(348.875mm,235.1mm)  Top Overlay and 
+                     Pad LFer_Lai_U_EMI_Prot_1-1(346.3mm,231.05mm)  Top Layer
+   Violation between Text "PMOS_U_EMI_Prot_Circ1" (315.4mm,244.5mm)  Top Overlay and 
+                     Pad PMOS_U_EMI_Prot_1-D(345mm,245.1mm)  Top Layer
+   Violation between Text "C2_U_EMI_Prot_1" (331.318mm,240.259mm)  Top Overlay and 
+                     Pad PMOS_U_EMI_Prot_1-S(338.55mm,242.571mm)  Top Layer
+   Violation between Track (422.4mm,359.2mm)(422.4mm,365.4mm)  Top Overlay and 
+                     Pad L1_U_5v_REG_2-2(423.65mm,359.2mm)  Top Layer
+   Violation between Track (422.4mm,353mm)(422.4mm,359.2mm)  Top Overlay and 
+                     Pad L1_U_5v_REG_2-2(423.65mm,359.2mm)  Top Layer
+   Violation between Track (435mm,353mm)(435mm,365.4mm)  Top Overlay and 
+                     Pad L1_U_5v_REG_2-1(433.75mm,359.2mm)  Top Layer
+   Violation between Text "PMOS_U_EMI_Prot_2" (329.108mm,362.102mm)  Top Overlay and 
+                     Pad C1-2(352.5mm,362.95mm)  Top Layer
+   Violation between Track (405.6mm,254.4mm)(405.6mm,260.6mm)  Top Overlay and 
+                     Pad L1_U_5v_REG_1-2(406.85mm,260.6mm)  Top Layer
+   Violation between Track (405.6mm,260.6mm)(405.6mm,266.8mm)  Top Overlay and 
+                     Pad L1_U_5v_REG_1-2(406.85mm,260.6mm)  Top Layer
+   Violation between Track (418.2mm,254.4mm)(418.2mm,266.8mm)  Top Overlay and 
+                     Pad L1_U_5v_REG_1-1(416.95mm,260.6mm)  Top Layer
+   Violation between Text "LM2678-5_U_5v_REG_1" (408.534mm,248.564mm)  Top Overlay and 
+                     Pad Schott_D1_U_5v_REG_1-2(433.15mm,251.85mm)  Top Layer
+   Violation between Text "LM2678-5_U_5v_REG_1" (408.534mm,248.564mm)  Top Overlay and 
+                     Pad Schott_D1_U_5v_REG_1-1(428.05mm,251.85mm)  Top Layer
+   Violation between Track (254.1mm,254mm)(254.1mm,258.4mm)  Top Overlay and 
+                     Pad DZen1-D2(255.2mm,257.65mm)  Top Layer
+   Violation between Track (256.3mm,254mm)(256.3mm,258.4mm)  Top Overlay and 
+                     Pad DZen1-D2(255.2mm,257.65mm)  Top Layer
+   Violation between Track (254.1mm,258.4mm)(256.3mm,258.4mm)  Top Overlay and 
+                     Pad DZen1-D2(255.2mm,257.65mm)  Top Layer
+   Violation between Track (254.1mm,254mm)(254.1mm,258.4mm)  Top Overlay and 
+                     Pad DZen1-D1(255.2mm,254.75mm)  Top Layer
+   Violation between Track (254.1mm,254mm)(255.2mm,254mm)  Top Overlay and 
+                     Pad DZen1-D1(255.2mm,254.75mm)  Top Layer
+   Violation between Track (256.3mm,254mm)(256.3mm,258.4mm)  Top Overlay and 
+                     Pad DZen1-D1(255.2mm,254.75mm)  Top Layer
+   Violation between Track (255.2mm,254mm)(256.3mm,254mm)  Top Overlay and 
+                     Pad DZen1-D1(255.2mm,254.75mm)  Top Layer
+   Violation between Track (141.025mm,314.5mm)(141.025mm,314.9mm)  Top Overlay and 
+                     Pad R11-1(141.6mm,313.75mm)  Top Layer
+   Violation between Track (142.175mm,314.5mm)(142.175mm,314.9mm)  Top Overlay and 
+                     Pad R11-1(141.6mm,313.75mm)  Top Layer
+   Violation between Track (141.025mm,314.5mm)(141.025mm,314.9mm)  Top Overlay and 
+                     Pad R11-2(141.6mm,315.65mm)  Top Layer
+   Violation between Track (142.175mm,314.5mm)(142.175mm,314.9mm)  Top Overlay and 
+                     Pad R11-2(141.6mm,315.65mm)  Top Layer
+   Violation between Track (161.9mm,326.9mm)(161.9mm,329.1mm)  Top Overlay and 
+                     Pad LFerrite-2(162.3mm,328.9mm)  Top Layer
+   Violation between Track (162.7mm,326.9mm)(162.7mm,329.1mm)  Top Overlay and 
+                     Pad LFerrite-2(162.3mm,328.9mm)  Top Layer
+   Violation between Track (161.9mm,329.1mm)(162.7mm,329.1mm)  Top Overlay and 
+                     Pad LFerrite-2(162.3mm,328.9mm)  Top Layer
+   Violation between Track (161.9mm,326.9mm)(162.3mm,326.9mm)  Top Overlay and 
+                     Pad LFerrite-1(162.3mm,327.1mm)  Top Layer
+   Violation between Track (161.9mm,326.9mm)(161.9mm,329.1mm)  Top Overlay and 
+                     Pad LFerrite-1(162.3mm,327.1mm)  Top Layer
+   Violation between Track (162.7mm,326.9mm)(162.7mm,329.1mm)  Top Overlay and 
+                     Pad LFerrite-1(162.3mm,327.1mm)  Top Layer
+   Violation between Track (162.3mm,326.9mm)(162.7mm,326.9mm)  Top Overlay and 
+                     Pad LFerrite-1(162.3mm,327.1mm)  Top Layer
+   Violation between Track (189.725mm,269.5mm)(189.725mm,269.9mm)  Top Overlay and 
+                     Pad R22-1(190.3mm,270.65mm)  Top Layer
+   Violation between Track (190.875mm,269.5mm)(190.875mm,269.9mm)  Top Overlay and 
+                     Pad R22-1(190.3mm,270.65mm)  Top Layer
+   Violation between Track (189.725mm,269.5mm)(189.725mm,269.9mm)  Top Overlay and 
+                     Pad R22-2(190.3mm,268.75mm)  Top Layer
+   Violation between Track (190.875mm,269.5mm)(190.875mm,269.9mm)  Top Overlay and 
+                     Pad R22-2(190.3mm,268.75mm)  Top Layer
+   Violation between Track (180.6mm,253.6mm)(180.6mm,259.5mm)  Top Overlay and 
+                     Pad CMC2-OUT2(180.5mm,255.3mm)  Top Layer
+   Violation between Track (180.6mm,253.6mm)(180.6mm,259.5mm)  Top Overlay and 
+                     Pad CMC2-OUT1(180.5mm,257.8mm)  Top Layer
+   Violation between Track (173.11mm,253.6mm)(173.11mm,254.794mm)  Top Overlay and 
+                     Pad CMC2-IN2(173.1mm,255.3mm)  Top Layer
+   Violation between Track (173.1mm,254.8mm)(173.1mm,257.837mm)  Top Overlay and 
+                     Pad CMC2-IN2(173.1mm,255.3mm)  Top Layer
+   Violation between Track (173.1mm,258.2mm)(173.1mm,259.034mm)  Top Overlay and 
+                     Pad CMC2-IN1(173.1mm,257.8mm)  Top Layer
+   Violation between Track (173.1mm,257.8mm)(173.1mm,258.217mm)  Top Overlay and 
+                     Pad CMC2-IN1(173.1mm,257.8mm)  Top Layer
+   Violation between Track (173.1mm,254.8mm)(173.1mm,257.837mm)  Top Overlay and 
+                     Pad CMC2-IN1(173.1mm,257.8mm)  Top Layer
+   Violation between Track (171.875mm,247mm)(171.875mm,247.4mm)  Top Overlay and 
+                     Pad R23-1(171.3mm,248.15mm)  Top Layer
+   Violation between Track (170.725mm,247mm)(170.725mm,247.4mm)  Top Overlay and 
+                     Pad R23-1(171.3mm,248.15mm)  Top Layer
+   Violation between Track (171.875mm,247mm)(171.875mm,247.4mm)  Top Overlay and 
+                     Pad R23-2(171.3mm,246.25mm)  Top Layer
+   Violation between Track (170.725mm,247mm)(170.725mm,247.4mm)  Top Overlay and 
+                     Pad R23-2(171.3mm,246.25mm)  Top Layer
+   Violation between Track (188.875mm,247.2mm)(188.875mm,247.6mm)  Top Overlay and 
+                     Pad R21-1(188.3mm,246.45mm)  Top Layer
+   Violation between Track (187.725mm,247.2mm)(187.725mm,247.6mm)  Top Overlay and 
+                     Pad R21-1(188.3mm,246.45mm)  Top Layer
+   Violation between Track (188.875mm,247.2mm)(188.875mm,247.6mm)  Top Overlay and 
+                     Pad R21-2(188.3mm,248.35mm)  Top Layer
+   Violation between Track (187.725mm,247.2mm)(187.725mm,247.6mm)  Top Overlay and 
+                     Pad R21-2(188.3mm,248.35mm)  Top Layer
+   Violation between Track (297.775mm,259.2mm)(297.775mm,259.6mm)  Top Overlay and 
+                     Pad R2-1(297.2mm,258.45mm)  Top Layer
+   Violation between Track (296.625mm,259.2mm)(296.625mm,259.6mm)  Top Overlay and 
+                     Pad R2-1(297.2mm,258.45mm)  Top Layer
+   Violation between Track (297.775mm,259.2mm)(297.775mm,259.6mm)  Top Overlay and 
+                     Pad R2-2(297.2mm,260.35mm)  Top Layer
+   Violation between Track (296.625mm,259.2mm)(296.625mm,259.6mm)  Top Overlay and 
+                     Pad R2-2(297.2mm,260.35mm)  Top Layer
+   Violation between Track (291.6mm,254.6mm)(291.6mm,260.5mm)  Top Overlay and 
+                     Pad CMC-OUT2(291.5mm,256.3mm)  Top Layer
+   Violation between Track (291.6mm,254.6mm)(291.6mm,260.5mm)  Top Overlay and 
+                     Pad CMC-OUT1(291.5mm,258.8mm)  Top Layer
+   Violation between Track (284.11mm,254.6mm)(284.11mm,255.794mm)  Top Overlay and 
+                     Pad CMC-IN2(284.1mm,256.3mm)  Top Layer
+   Violation between Track (284.1mm,255.8mm)(284.1mm,258.837mm)  Top Overlay and 
+                     Pad CMC-IN2(284.1mm,256.3mm)  Top Layer
+   Violation between Track (284.1mm,258.8mm)(284.1mm,259.217mm)  Top Overlay and 
+                     Pad CMC-IN1(284.1mm,258.8mm)  Top Layer
+   Violation between Track (284.1mm,259.2mm)(284.1mm,260.034mm)  Top Overlay and 
+                     Pad CMC-IN1(284.1mm,258.8mm)  Top Layer
+   Violation between Track (284.1mm,255.8mm)(284.1mm,258.837mm)  Top Overlay and 
+                     Pad CMC-IN1(284.1mm,258.8mm)  Top Layer
+   Violation between Text "C2_EPC" (309.1mm,250.9mm)  Top Overlay and 
+                     Pad LFerr_M_U_EMI_Prot_Circ1-2(314.8mm,252.125mm)  Top Layer
+Rule Violations :103
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+   Violation between Via (177.9mm,275.7mm) Top Layer to Bottom Layer and 
+                     Via (176.4mm,275.1mm) Top Layer to Bottom Layer
+Rule Violations :1
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+   Violation between Via (178.4mm,275.7mm) Top Layer to Bottom Layer and 
+                     Via (177.9mm,275.7mm) Top Layer to Bottom Layer
+Rule Violations :1
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+   Violation between Hole Size Constraint (3.89mm > 2.54mm) : Pad LM2678-5_U_5v_REG_1-GND(429.2mm,241mm)  Multi-Layer
+   Violation between Hole Size Constraint (3.26mm > 2.54mm) : Pad CANC2-11(258.205mm,197.4mm)  Multi-Layer
+   Violation between Hole Size Constraint (3.26mm > 2.54mm) : Pad CANC2-10(283.195mm,197.4mm)  Multi-Layer
+   Violation between Hole Size Constraint (3.26mm > 2.54mm) : Pad CANC1-11(195.405mm,196.9mm)  Multi-Layer
+   Violation between Hole Size Constraint (3.26mm > 2.54mm) : Pad CANC1-10(220.395mm,196.9mm)  Multi-Layer
+   Violation between Hole Size Constraint (3.89mm > 2.54mm) : Pad LM2678-5_U_5v_REG_2-GND(435.6mm,343mm)  Multi-Layer
+Rule Violations :6
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25mm) (Prefered=12.5mm) (All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net UART2_TXD Between Pad TJA1027-TXDL (142.25,321.895mm) And Pad P9-21 (258.237,309.503mm)
+   Violation between Un-Routed Net Constraint: Net UART2_RXD Between Pad R11-1 (141.6,313.75mm) And Pad TJA1027-RXDL (142.25,325.705mm)
+   Violation between Un-Routed Net Constraint: Net UART2_RXD Between Pad R11-1 (141.6,313.75mm) And Pad P9-22 (255.697,309.503mm)
+   Violation between Un-Routed Net Constraint: Net UART1_TXD Between Pad P9-24 (255.697,312.043mm) And Pad TJA1043-1-RXD (269.15,255.5mm)
+   Violation between Un-Routed Net Constraint: Net UART1_RXD Between Pad P9-26 (255.697,314.583mm) And Pad TJA1043-1-TXD (269.15,259.31mm)
+   Violation between Un-Routed Net Constraint: Net NetPMOS_U_EMI_Prot_Circ2_S Between Pad PMOS-S (178.029,219.75mm) And Pad R21-1 (188.3,246.45mm)
+   Violation between Un-Routed Net Constraint: Net NetLFerrite_2 Between Pad PESD1LIN-D2 (158.95,331.575mm) And Pad LFerrite-2 (162.3,328.9mm)
+   Violation between Un-Routed Net Constraint: Net NetLFerrite_2 Between Pad LIN_Conn-1 (150.2,381.2mm) And Pad PESD1LIN-D2 (158.95,331.575mm)
+   Violation between Un-Routed Net Constraint: Net NetL1_U_5v_REG_2_2 Between Pad TanC3-1 (414.1,360.039mm) And Pad L1_U_5v_REG_2-2 (423.65,359.2mm)
+   Violation between Un-Routed Net Constraint: Net NetL1_U_5v_REG_2_2 Between Pad TanC2-1 (401,360.075mm) And Pad TanC3-1 (414.1,360.039mm)
+   Violation between Un-Routed Net Constraint: Net NetL1_U_5v_REG_2_2 Between Pad TanC1-1 (387.7,360.375mm) And Pad TanC2-1 (401,360.075mm)
+   Violation between Un-Routed Net Constraint: Net NetL1_U_5v_REG_2_2 Between Pad LM2678-5_U_5v_REG_2-FB (420.36,340.46mm) And Pad L1_U_5v_REG_2-2 (423.65,359.2mm)
+   Violation between Un-Routed Net Constraint: Net NetL1_U_5v_REG_2_2 Between Pad Reg1-2 (345.36,329.4mm) And Pad TanC1-1 (387.7,360.375mm)
+   Violation between Un-Routed Net Constraint: Net NetL1_U_5v_REG_2_2 Between Pad R34-1 (304.65,288.1mm) And Pad Reg1-2 (345.36,329.4mm)
+   Violation between Un-Routed Net Constraint: Net NetJ_INH2_2 Between Pad TJA10432-INH (158.55,250.19mm) And Pad J_INH2-2 (295.26,307.7mm)
+   Violation between Un-Routed Net Constraint: Net NetJ_INH2_1 Between Pad J_INH2-1 (297.8,307.7mm) And Pad R14-1 (317.15,275.3mm)
+   Violation between Un-Routed Net Constraint: Net NetJ_EN2_2 Between Pad J_EN2-2 (384.34,327.8mm) And Pad LM2678-5_U_5v_REG_2-EN (416.042,339.19mm)
+   Violation between Un-Routed Net Constraint: Net NetJ_EN1_2 Between Pad J_EN1-2 (325.5,278.76mm) And Pad LM2678-5_U_5v_REG_1-EN (409.642,237.19mm)
+   Violation between Un-Routed Net Constraint: Net NetJ_EN1_1 Between Pad R42-2 (307.45,275.8mm) And Pad R14-2 (314.45,275.3mm)
+   Violation between Un-Routed Net Constraint: Net NetJ_EN1_1 Between Pad R14-2 (314.45,275.3mm) And Pad J_EN1-1 (325.5,281.3mm)
+   Violation between Un-Routed Net Constraint: Net NetJ_EN1_1 Between Pad J_EN1-1 (325.5,281.3mm) And Pad J_EN2-1 (381.8,327.8mm)
+   Violation between Un-Routed Net Constraint: Net NetJ_12V2_1 Between Pad J_12V2-1 (329.6,369.3mm) And Pad PMOS_U_EMI_Prot_2-S (329.971,359.25mm)
+   Violation between Un-Routed Net Constraint: Net NetCMC2_IN2 Between Pad TJA10432-CANL (163.65,255.27mm) And Pad CMC2-IN2 (173.1,255.3mm)
+   Violation between Un-Routed Net Constraint: Net NetCMC2_IN1 Between Pad TJA10432-CANH (163.65,256.54mm) And Pad CMC2-IN1 (173.1,257.8mm)
+   Violation between Un-Routed Net Constraint: Net NetCc1_U_5v_REG_2_2 Between Pad Schott_D1_U_5v_REG_2-1 (444.05,363.45mm) And Pad Schott_D1_U_5v_REG_2-1 (454.1,360.9mm)
+   Violation between Un-Routed Net Constraint: Net NetCc1_U_5v_REG_2_2 Between Pad L1_U_5v_REG_2-1 (433.75,359.2mm) And Pad Schott_D1_U_5v_REG_2-1 (444.05,363.45mm)
+   Violation between Un-Routed Net Constraint: Net NetCc1_U_5v_REG_2_2 Between Pad Schott_D1_U_5v_REG_2-1 (454.1,360.9mm) And Pad Cc1_U_5v_REG_2-2 (456.8,345.65mm)
+   Violation between Un-Routed Net Constraint: Net NetCc1_U_5v_REG_2_2 Between Pad LM2678-5_U_5v_REG_2-S_Out (416.042,346.81mm) And Pad L1_U_5v_REG_2-1 (433.75,359.2mm)
+   Violation between Un-Routed Net Constraint: Net NetCc1_U_5v_REG_2_1 Between Pad LM2678-5_U_5v_REG_2-CB (416.042,344.27mm) And Pad Cc1_U_5v_REG_2-1 (456.8,343.95mm)
+   Violation between Un-Routed Net Constraint: Net NetCc1_U_5v_REG_1_2 Between Pad Schott_D1_U_5v_REG_1-1 (428.05,251.85mm) And Pad Schott_D1_U_5v_REG_1-1 (430.6,261.9mm)
+   Violation between Un-Routed Net Constraint: Net NetCc1_U_5v_REG_1_2 Between Pad L1_U_5v_REG_1-1 (416.95,260.6mm) And Pad Schott_D1_U_5v_REG_1-1 (430.6,261.9mm)
+   Violation between Un-Routed Net Constraint: Net NetCc1_U_5v_REG_1_2 Between Pad Schott_D1_U_5v_REG_1-1 (428.05,251.85mm) And Pad Cc1_U_5v_REG_1-2 (449.7,251.95mm)
+   Violation between Un-Routed Net Constraint: Net NetCc1_U_5v_REG_1_2 Between Pad LM2678-5_U_5v_REG_1-S_Out (409.642,244.81mm) And Pad L1_U_5v_REG_1-1 (416.95,260.6mm)
+   Violation between Un-Routed Net Constraint: Net NetCc1_U_5v_REG_1_1 Between Pad LM2678-5_U_5v_REG_1-CB (409.642,242.27mm) And Pad Cc1_U_5v_REG_1-1 (449.7,250.25mm)
+   Violation between Un-Routed Net Constraint: Net NetCANC2_9 Between Pad CANC2-9 (266.545,195.98mm) And Pad J_Cbat1-1 (319.7,209.2mm)
+   Violation between Un-Routed Net Constraint: Net NetCANC1_9 Between Pad J_Cbat2-1 (160.6,191.6mm) And Pad CANC1-9 (203.745,195.48mm)
+   Violation between Un-Routed Net Constraint: Net NetC42_2 Between Pad R23-2 (171.3,246.25mm) And Pad C42-2 (175,240.35mm)
+   Violation between Un-Routed Net Constraint: Net NetC42_2 Between Pad TJA10432-SPLIT (163.65,254mm) And Track on layer Top Layer (171.3,246.533mm)
+   Violation between Un-Routed Net Constraint: Net NetC42_2 Between Track on layer Top Layer (171.3,246.533mm) And Pad R22-1 (190.3,270.65mm)
+   Violation between Un-Routed Net Constraint: Net NetC36_2 Between Pad TJA1027-BAT (147.35,324.435mm) And Pad C36-2 (151.2,315.75mm)
+   Violation between Un-Routed Net Constraint: Net NetC36_2 Between Pad C36-2 (151.2,315.75mm) And Pad PMOS-S (152.729,298.15mm)
+   Violation between Un-Routed Net Constraint: Net NetC33_2 Between Pad C33-2 (162.25,313.9mm) And Pad LFerrite-1 (162.3,327.1mm)
+   Violation between Un-Routed Net Constraint: Net NetC33_2 Between Pad TJA1027-LIN (147.35,323.165mm) And Pad LFerrite-1 (162.3,327.1mm)
+   Violation between Un-Routed Net Constraint: Net NetC26_2 Between Pad R23-1 (171.3,248.15mm) And Pad C26-2 (176.9,248.15mm)
+   Violation between Un-Routed Net Constraint: Net NetC26_2 Between Pad CMC2-OUT2 (180.5,255.3mm) And Pad PESD1CAN2-I2 (189.35,256.05mm)
+   Violation between Un-Routed Net Constraint: Net NetC26_2 Between Pad PESD1CAN2-I2 (189.35,256.05mm) And Pad CANC1-2 (210.67,198.32mm)
+   Violation between Un-Routed Net Constraint: Net NetC26_2 Between Pad C26-2 (176.9,248.15mm) And Pad CMC2-OUT2 (180.5,255.3mm)
+   Violation between Un-Routed Net Constraint: Net NetC25_2 Between Pad C25-2 (185.65,264.8mm) And Pad R22-2 (190.3,268.75mm)
+   Violation between Un-Routed Net Constraint: Net NetC25_2 Between Pad CMC2-OUT1 (180.5,257.8mm) And Pad PESD1CAN2-I1 (189.35,257.95mm)
+   Violation between Un-Routed Net Constraint: Net NetC25_2 Between Pad PESD1CAN2-I1 (189.35,257.95mm) And Pad CANC1-7 (209.285,195.48mm)
+   Violation between Un-Routed Net Constraint: Net NetC25_2 Between Pad C25-2 (185.65,264.8mm) And Pad PESD1CAN2-I1 (189.35,257.95mm)
+   Violation between Un-Routed Net Constraint: Net NetC21_2 Between Pad C21-2 (182.5,248.15mm) And Pad R21-2 (188.3,248.35mm)
+   Violation between Un-Routed Net Constraint: Net NetC21_2 Between Pad TJA10432-BAT (163.65,252.73mm) And Pad C21-2 (182.5,248.15mm)
+   Violation between Un-Routed Net Constraint: Net NetC6_2 Between Pad CANC2-2 (273.47,198.82mm) And Pad C6-2 (283.95,251.3mm)
+   Violation between Un-Routed Net Constraint: Net NetC5_2 Between Pad CANC2-7 (272.085,195.98mm) And Pad PESD1CAN-I1 (288.25,250.45mm)
+   Violation between Un-Routed Net Constraint: Net NetC4_2 Between Pad TJA1043-1-SPLIT (274.25,255.5mm) And Pad R3-2 (297.2,255.95mm)
+   Violation between Un-Routed Net Constraint: Net NetC3_2 Between Pad R11-2 (141.6,315.65mm) And Pad C13-2 (147.7,315.55mm)
+   Violation between Un-Routed Net Constraint: Net NetC3_2 Between Pad C32-2 (157.05,239.4mm) And Pad TJA10432-VIO (158.55,252.73mm)
+   Violation between Un-Routed Net Constraint: Net NetC3_2 Between Pad C3-2 (279.9,246.85mm) And Pad R34-2 (301.95,288.1mm)
+   Violation between Un-Routed Net Constraint: Net NetC3_2 Between Pad C13-2 (147.7,315.55mm) And Pad TJA10432-VIO (158.55,252.73mm)
+   Violation between Un-Routed Net Constraint: Net NetC3_2 Between Pad TJA10432-VIO (158.55,252.73mm) And Track on layer Top Layer (255.2,252.6mm)
+   Violation between Un-Routed Net Constraint: Net NetC2_U_EMI_Prot_Circ3_1 Between Pad C2-1 (142.763,299.889mm) And Pad PMOS-D (150.2,304.6mm)
+   Violation between Un-Routed Net Constraint: Net NetC2_U_EMI_Prot_Circ3_1 Between Pad PMOS-D (150.2,304.6mm) And Pad LFerr_M-2 (164.325,301.1mm)
+   Violation between Un-Routed Net Constraint: Net NetC2_U_EMI_Prot_Circ2_1 Between Pad PMOS-D (175.5,226.2mm) And Pad LFerr_M-2 (186.2,226.975mm)
+   Violation between Un-Routed Net Constraint: Net NetC2_U_EMI_Prot_Circ2_1 Between Pad PMOS-D (175.5,226.2mm) And Pad C2-1 (177.175,214mm)
+   Violation between Un-Routed Net Constraint: Net NetC2_U_EMI_Prot_2_1 Between Pad LFer_Lai_U_EMI_Prot_2-2 (332.4,344.95mm) And Pad PMOS_U_EMI_Prot_2-D (332.5,352.8mm)
+   Violation between Un-Routed Net Constraint: Net NetC2_U_EMI_Prot_2_1 Between Pad C2_U_EMI_Prot_2-1 (312.6,355.75mm) And Pad PMOS_U_EMI_Prot_2-D (332.5,352.8mm)
+   Violation between Un-Routed Net Constraint: Net NetC2_2 Between Pad TanCap1_U_5v_REG_1-1 (378.3,264.625mm) And Pad TanCap2_U_5v_REG_1-1 (387.6,264.725mm)
+   Violation between Un-Routed Net Constraint: Net NetC2_2 Between Pad TanCap2_U_5v_REG_1-1 (387.6,264.725mm) And Pad TanCap3_U_5v_REG_1-1 (397.4,264.925mm)
+   Violation between Un-Routed Net Constraint: Net NetC2_2 Between Pad TanCap3_U_5v_REG_1-1 (397.4,264.925mm) And Pad L1_U_5v_REG_1-2 (406.85,260.6mm)
+   Violation between Un-Routed Net Constraint: Net NetC2_2 Between Pad L1_U_5v_REG_1-2 (406.85,260.6mm) And Pad LM2678-5_U_5v_REG_1-FB (413.96,238.46mm)
+   Violation between Un-Routed Net Constraint: Net NetC2_2 Between Pad TJA10432-VCC (158.55,255.27mm) And Pad C22-2 (181.85,270.2mm)
+   Violation between Un-Routed Net Constraint: Net NetC2_2 Between Pad Reg2-2 (326.7,265.84mm) And Pad TanCap1_U_5v_REG_1-1 (378.3,264.625mm)
+   Violation between Un-Routed Net Constraint: Net NetC2_2 Between Pad TJA1043-1-VCC (269.15,256.77mm) And Pad Reg2-2 (326.7,265.84mm)
+   Violation between Un-Routed Net Constraint: Net NetC2_2 Between Pad C22-2 (181.85,270.2mm) And Pad C2-2 (264.2,256.45mm)
+   Violation between Un-Routed Net Constraint: Net NetC1_U_EMI_Prot_1_1 Between Track on layer Top Layer (319.5,213.1mm) And Pad J_Cbat1-2 (319.7,211.74mm)
+   Violation between Un-Routed Net Constraint: Net NetC1_U_EMI_Prot_1_1 Between Pad LFer_Lai_U_EMI_Prot_2-1 (332.4,339.65mm) And Pad C1_U_EMI_Prot_2-1 (347.05,342.8mm)
+   Violation between Un-Routed Net Constraint: Net NetC1_U_EMI_Prot_1_1 Between Pad C1-1 (163.7,224.35mm) And Pad LFerr_M-1 (186.2,225.225mm)
+   Violation between Un-Routed Net Constraint: Net NetC1_U_EMI_Prot_1_1 Between Pad J_Cbat2-2 (160.6,194.14mm) And Pad C1-1 (163.7,224.35mm)
+   Violation between Un-Routed Net Constraint: Net NetC1_U_EMI_Prot_1_1 Between Pad C1-1 (137.325,295.15mm) And Pad LFerr_M-1 (166.075,301.1mm)
+   Violation between Un-Routed Net Constraint: Net NetC1_U_EMI_Prot_1_1 Between Pad C1-1 (163.7,224.35mm) And Pad LFerr_M-1 (166.075,301.1mm)
+   Violation between Un-Routed Net Constraint: Net NetC1_U_EMI_Prot_1_1 Between Track on layer Top Layer (316.925,253.875mm) And Pad LFer_Lai_U_EMI_Prot_2-1 (332.4,339.65mm)
+   Violation between Un-Routed Net Constraint: Net NetC1_U_EMI_Prot_1_1 Between Pad LFerr_M-1 (186.2,225.225mm) And Track on layer Top Layer (319.5,230.85mm)
+   Violation between Un-Routed Net Constraint: Net NetC1_U_5v_REG_2_2 Between Pad C2-2 (361.5,362.15mm) And Pad C3-2 (368.6,362.35mm)
+   Violation between Un-Routed Net Constraint: Net NetC1_U_5v_REG_2_2 Between Pad C3-2 (368.6,362.35mm) And Pad C4-2 (376.6,361.95mm)
+   Violation between Un-Routed Net Constraint: Net NetC1_U_5v_REG_2_2 Between Pad C1-2 (352.5,362.95mm) And Pad C2-2 (361.5,362.15mm)
+   Violation between Un-Routed Net Constraint: Net NetC1_U_5v_REG_2_2 Between Pad J_12V2-2 (329.6,371.84mm) And Pad C1-2 (352.5,362.95mm)
+   Violation between Un-Routed Net Constraint: Net NetC1_U_5v_REG_2_2 Between Pad C4-2 (376.6,361.95mm) And Pad LM2678-5_U_5v_REG_2-In (420.36,345.54mm)
+   Violation between Un-Routed Net Constraint: Net NetC1_U_5v_REG_1_2 Between Pad C2_U_5v_REG_1-2 (358.7,271.15mm) And Pad C3_U_5v_REG_1-2 (363.7,271.15mm)
+   Violation between Un-Routed Net Constraint: Net NetC1_U_5v_REG_1_2 Between Pad C3_U_5v_REG_1-2 (363.7,271.15mm) And Pad C4_U_5v_REG_1-2 (368.7,271.05mm)
+   Violation between Un-Routed Net Constraint: Net NetC1_U_5v_REG_1_2 Between Pad C1_U_5v_REG_1-2 (353.4,270.95mm) And Pad C2_U_5v_REG_1-2 (358.7,271.15mm)
+   Violation between Un-Routed Net Constraint: Net NetC1_U_5v_REG_1_2 Between Pad J_12V1-2 (331.1,258.04mm) And Pad C1_U_5v_REG_1-2 (353.4,270.95mm)
+   Violation between Un-Routed Net Constraint: Net NetC1_U_5v_REG_1_2 Between Pad C4_U_5v_REG_1-2 (368.7,271.05mm) And Pad LM2678-5_U_5v_REG_1-In (413.96,243.54mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C1-1 (279.8,251.25mm) And Pad C3-1 (279.9,248.55mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C13-1 (147.7,313.85mm) And Pad C36-1 (151.2,314.05mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C1-2 (305.4,255.65mm) And Pad C1-2 (309.2,255.65mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C2-2 (142.763,298.189mm) And Pad PMOS-G (147.671,298.15mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C2_U_5v_REG_1-1 (358.7,269.45mm) And Pad C3_U_5v_REG_1-1 (363.7,269.45mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C3_U_5v_REG_1-1 (363.7,269.45mm) And Pad C4_U_5v_REG_1-1 (368.7,269.35mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C1_U_5v_REG_1-1 (353.4,269.25mm) And Pad C2_U_5v_REG_1-1 (358.7,269.45mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C26-1 (176.9,246.45mm) And Pad C21-1 (182.5,246.45mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C1-2 (137.325,296.85mm) And Pad C2-2 (142.763,298.189mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C2-1 (361.5,363.85mm) And Pad C3-1 (368.6,364.05mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C2-1 (264.2,254.75mm) And Track on layer Top Layer (268.76,257.65mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad PMOS-G (172.971,219.75mm) And Pad C2-2 (175.475,214mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad TJA1027-GND (147.35,321.895mm) And Pad C13-1 (147.7,313.85mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C3-1 (368.6,364.05mm) And Pad C4-1 (376.6,363.65mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C22-1 (183.55,270.2mm) And Pad C25-1 (187.35,264.8mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Track on layer Top Layer (282.5,251.15mm) And Pad PESD1CAN-O1 (290.15,249.5mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad TanCap1_U_5v_REG_1-2 (378.3,258.575mm) And Pad TanCap2_U_5v_REG_1-2 (387.6,258.675mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C36-1 (151.2,314.05mm) And Pad C33-1 (160.55,313.9mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C42-1 (175,238.65mm) And Pad C26-1 (176.9,246.45mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C1-1 (352.5,364.65mm) And Pad C2-1 (361.5,363.85mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad TanCap2_U_5v_REG_1-2 (387.6,258.675mm) And Pad TanCap3_U_5v_REG_1-2 (397.4,258.875mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad TJA10432-GND (158.55,256.54mm) And Pad TJA10432-WAKE (163.65,251.46mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C25-1 (187.35,264.8mm) And Pad PESD1CAN2-O1 (191.25,257mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad TanC2-2 (401,366.125mm) And Pad TanC3-2 (414.1,366.089mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad TanC1-2 (387.7,366.425mm) And Pad TanC2-2 (401,366.125mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Reg1-1 (347.9,329.4mm) And Pad C1_U_EMI_Prot_2-2 (348.75,342.8mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad LM2678-5_U_5v_REG_1-GND (429.2,241mm) And Pad Schott_D1_U_5v_REG_1-2 (433.15,251.85mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad LM2678-5_U_5v_REG_2-GND (420.36,343mm) And Pad LM2678-5_U_5v_REG_2-GND (435.6,343mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad LM2678-5_U_5v_REG_1-GND (413.96,241mm) And Pad LM2678-5_U_5v_REG_1-GND (429.2,241mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C1-2 (163.7,226.05mm) And Pad PMOS-G (172.971,219.75mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C32-1 (158.75,239.4mm) And Pad TJA10432-WAKE (163.65,251.46mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad TJA1027-GND (147.35,321.895mm) And Pad PESD1LIN-D1 (156.05,331.575mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C5-1 (301,258.95mm) And Pad R42-1 (304.75,275.8mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad PMOS_U_EMI_Prot_2-G (335.029,359.25mm) And Pad C1-1 (352.5,364.65mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad LM2678-5_U_5v_REG_2-GND (435.6,343mm) And Pad Schott_D1_U_5v_REG_2-2 (444.05,358.35mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C2_U_EMI_Prot_2-2 (312.6,357.45mm) And Pad PMOS_U_EMI_Prot_2-G (335.029,359.25mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C1-2 (309.2,255.65mm) And Track on layer Top Layer (326.7,263.3mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C2-2 (175.475,214mm) And Pad CANC1-5 (202.36,198.32mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C2-1 (264.2,254.75mm) And Pad CANC2-5 (265.16,198.82mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Track on layer Top Layer (268.76,257.65mm) And Pad TJA1043-1-WAKE (274.25,252.96mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad PESD1CAN-O1 (290.15,249.5mm) And Track on layer Top Layer (303.15,249.3mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C4-1 (376.6,363.65mm) And Pad TanC1-2 (387.7,366.425mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad PMOS-G (147.671,298.15mm) And Pad C13-1 (147.7,313.85mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C32-1 (158.75,239.4mm) And Pad C42-1 (175,238.65mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C32-1 (158.75,239.4mm) And Pad C1-2 (163.7,226.05mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C21-1 (182.5,246.45mm) And Pad PESD1CAN2-O1 (191.25,257mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C4_U_5v_REG_1-1 (368.7,269.35mm) And Pad TanCap1_U_5v_REG_1-2 (378.3,258.575mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C1_U_EMI_Prot_2-2 (348.75,342.8mm) And Pad C1-1 (352.5,364.65mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad TanC3-2 (414.1,366.089mm) And Pad LM2678-5_U_5v_REG_2-GND (420.36,343mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad TanCap3_U_5v_REG_1-2 (397.4,258.875mm) And Pad LM2678-5_U_5v_REG_1-GND (413.96,241mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Track on layer Top Layer (338.55,256.85mm) And Pad C1_U_5v_REG_1-1 (353.4,269.25mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad PMOS-G (147.671,298.15mm) And Pad TJA10432-GND (158.55,256.54mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Reg1-1 (347.9,329.4mm) And Pad C1_U_5v_REG_1-1 (353.4,269.25mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad CANC1-5 (202.36,198.32mm) And Pad CANC2-5 (265.16,198.82mm)
+   Violation between Un-Routed Net Constraint: Net MMC1_DAT7 Between Pad TJA10432-EN (158.55,251.46mm) And Pad P8-4 (207.414,286.64mm)
+   Violation between Un-Routed Net Constraint: Net MMC1_DAT4 Between Pad P8-23 (209.954,312.04mm) And Pad TJA1043-1-ERR_N (274.25,251.69mm)
+   Violation between Un-Routed Net Constraint: Net MMC1_DAT2 Between Pad P8-5 (209.954,289.18mm) And Pad TJA1043-1-STB_N (274.25,259.31mm)
+   Violation between Un-Routed Net Constraint: Net I2C2_SDA Between Pad TJA10432-TXD (158.55,257.81mm) And Pad P9-20 (255.697,306.963mm)
+   Violation between Un-Routed Net Constraint: Net I2C2_SCL Between Pad TJA10432-RXD (158.55,254mm) And Pad P9-19 (258.237,306.963mm)
+   Violation between Un-Routed Net Constraint: Net GPIO2_1 Between Pad TJA1027-SLPN (142.25,324.435mm) And Pad P8-18 (207.414,304.42mm)
+   Violation between Un-Routed Net Constraint: Net GPIO1_29 Between Pad TJA10432-STB_N (163.65,257.81mm) And Pad P8-26 (207.414,314.58mm)
+   Violation between Un-Routed Net Constraint: Net GPIO1_12 Between Pad TJA10432-ERR_N (163.65,250.19mm) And Pad P8-12 (207.414,296.8mm)
+   Violation between Un-Routed Net Constraint: Net GPIO0_27 Between Pad P8-17 (209.954,304.42mm) And Pad TJA1043-1-EN (269.15,252.96mm)
+Rule Violations :156
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.4mm) (Conductor Width=0.2mm) (Air Gap=0.2mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.15mm) (Max=1.5mm) (Preferred=0.2mm) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
+Rule Violations :0
+
+
+Violations Detected : 372
+Time Elapsed        : 00:00:01

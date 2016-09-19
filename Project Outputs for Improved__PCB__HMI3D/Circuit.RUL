@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\irenem.lopezcarron\Documents\Altium\HMI3D_PCB1\Circuit.PcbDoc
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=39.37
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width-xTW|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance-xPP-xTP-xTT|Scope=Board|Minimum=5.91

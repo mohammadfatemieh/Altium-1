@@ -1,0 +1,376 @@
+Added Component: Designator=BAT_IN(HDR1X2)
+Added Component: Designator=C1_U_5v_REG_1(CAP_0805)
+Added Component: Designator=C1_U_5v_REG_2(CAP_0805)
+Added Component: Designator=C1_U_EMI_Prot_1(CAP_0805)
+Added Component: Designator=C1_U_EMI_Prot_2(CAP_0805)
+Added Component: Designator=C1_U_EMI_Prot_Circ1(CAP_0805)
+Added Component: Designator=C1_U_EMI_Prot_Circ2(CAP_0805)
+Added Component: Designator=C1_U_EMI_Prot_Circ3(CAP_0805)
+Added Component: Designator=C1(CAP_0805)
+Added Component: Designator=C2_U_5v_REG_1(CAP_0805)
+Added Component: Designator=C2_U_5v_REG_2(CAP_0805)
+Added Component: Designator=C2_U_EMI_Prot_1(CAP_0805)
+Added Component: Designator=C2_U_EMI_Prot_2(CAP_0805)
+Added Component: Designator=C2_U_EMI_Prot_Circ1(CAP_0805)
+Added Component: Designator=C2_U_EMI_Prot_Circ2(CAP_0805)
+Added Component: Designator=C2_U_EMI_Prot_Circ3(CAP_0805)
+Added Component: Designator=C2(CAP_0805)
+Added Component: Designator=C3_U_5v_REG_1(CAP_0805)
+Added Component: Designator=C3_U_5v_REG_2(CAP_0805)
+Added Component: Designator=C3(CAP_0805)
+Added Component: Designator=C4_U_5v_REG_1(CAP_0805)
+Added Component: Designator=C4_U_5v_REG_2(CAP_0805)
+Added Component: Designator=C4(C1206)
+Added Component: Designator=C5(CAP_0805)
+Added Component: Designator=C6(CAP_0805)
+Added Component: Designator=C13(CAP_0805)
+Added Component: Designator=C21(CAP_0805)
+Added Component: Designator=C22(CAP_0805)
+Added Component: Designator=C25(CAP_0805)
+Added Component: Designator=C26(CAP_0805)
+Added Component: Designator=C32(CAP_0805)
+Added Component: Designator=C33(CAP_0805)
+Added Component: Designator=C36(CAP_0805)
+Added Component: Designator=C42(C1206)
+Added Component: Designator=CANC1(DSUB1.385-2H9)
+Added Component: Designator=CANC2(DSUB1.385-2H9)
+Added Component: Designator=Cc1_U_5v_REG_1(CAP_0805)
+Added Component: Designator=Cc1_U_5v_REG_2(CAP_0805)
+Added Component: Designator=CMC2(CMC)
+Added Component: Designator=CMC(CMC)
+Added Component: Designator=DZen(Zener_Diode)
+Added Component: Designator=J_12V1(HDR1X2)
+Added Component: Designator=J_12V2(HDR1X2)
+Added Component: Designator=J_Bat(HDR1X2)
+Added Component: Designator=J_Cbat1(HDR1X2)
+Added Component: Designator=J_Cbat2(HDR1X2)
+Added Component: Designator=J_EN1(HDR1X2)
+Added Component: Designator=J_EN2(HDR1X2)
+Added Component: Designator=J_INH2(HDR1X2)
+Added Component: Designator=J_INH(HDR1X2)
+Added Component: Designator=L1_U_5v_REG_1(Inductor_reg)
+Added Component: Designator=L1_U_5v_REG_2(Inductor_reg)
+Added Component: Designator=LFer_Lai_U_EMI_Prot_1(LFerrite_Laird)
+Added Component: Designator=LFer_Lai_U_EMI_Prot_2(LFerrite_Laird)
+Added Component: Designator=LFerr_M_U_EMI_Prot_Circ1(LFERRITE_MURATA_BLM21A)
+Added Component: Designator=LFerr_M_U_EMI_Prot_Circ2(LFERRITE_MURATA_BLM21A)
+Added Component: Designator=LFerr_M_U_EMI_Prot_Circ3(LFERRITE_MURATA_BLM21A)
+Added Component: Designator=LFerrite(LFerrite)
+Added Component: Designator=LIN_Conn(PIN1)
+Added Component: Designator=LM2678-5_U_5v_REG_1(TO2207-LM2678)
+Added Component: Designator=LM2678-5_U_5v_REG_2(TO2207-LM2678)
+Added Component: Designator=P8(Beagle_Header)
+Added Component: Designator=P9(Beagle_Header)
+Added Component: Designator=PESD1CAN2(SOT32-PESD1CAN)
+Added Component: Designator=PESD1CAN(SOT32-PESD1CAN)
+Added Component: Designator=PESD1LIN(SOD323-PESD1LIN)
+Added Component: Designator=PMOS_U_EMI_Prot_1(PMOS)
+Added Component: Designator=PMOS_U_EMI_Prot_2(PMOS)
+Added Component: Designator=PMOS_U_EMI_Prot_Circ1(PMOS)
+Added Component: Designator=PMOS_U_EMI_Prot_Circ2(PMOS)
+Added Component: Designator=PMOS_U_EMI_Prot_Circ3(PMOS)
+Added Component: Designator=R1(RES_0805)
+Added Component: Designator=R2(RES_0805)
+Added Component: Designator=R3(RES_0805)
+Added Component: Designator=R11(RES_0805)
+Added Component: Designator=R14(14-1210)
+Added Component: Designator=R21(RES_0805)
+Added Component: Designator=R22(RES_0805)
+Added Component: Designator=R23(RES_0805)
+Added Component: Designator=R34(14-1210)
+Added Component: Designator=R42(14-1210)
+Added Component: Designator=Reg1(HDR1X2)
+Added Component: Designator=Reg2(HDR1X2)
+Added Component: Designator=Schott_D1_U_5v_REG_1(Schottky_diode)
+Added Component: Designator=Schott_D1_U_5v_REG_2(Schottky_diode)
+Added Component: Designator=TanCap1_U_5v_REG_1(CAP_TANT)
+Added Component: Designator=TanCap1_U_5v_REG_2(CAP_TANT)
+Added Component: Designator=TanCap2_U_5v_REG_1(CAP_TANT)
+Added Component: Designator=TanCap2_U_5v_REG_2(CAP_TANT)
+Added Component: Designator=TanCap3_U_5v_REG_1(CAP_TANT)
+Added Component: Designator=TanCap3_U_5v_REG_2(CAP_TANT)
+Added Component: Designator=TJA1027(SOIC8-TJA1027)
+Added Component: Designator=TJA1043(SOIC14-TJA1043)
+Added Component: Designator=TJA10432(SOIC14-TJA1043)
+Added Pin To Net: NetName=GNDA_ADC Pin=P9-34
+Added Net: Name=GNDA_ADC
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1_U_EMI_Prot_Circ1-2
+Added Pin To Net: NetName=GND Pin=C1_U_EMI_Prot_Circ2-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2_U_EMI_Prot_Circ1-2
+Added Pin To Net: NetName=GND Pin=C2_U_EMI_Prot_Circ2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C42-1
+Added Pin To Net: NetName=GND Pin=P8-1
+Added Pin To Net: NetName=GND Pin=P8-2
+Added Pin To Net: NetName=GND Pin=P9-1
+Added Pin To Net: NetName=GND Pin=P9-2
+Added Pin To Net: NetName=GND Pin=P9-43
+Added Pin To Net: NetName=GND Pin=P9-44
+Added Pin To Net: NetName=GND Pin=P9-45
+Added Pin To Net: NetName=GND Pin=P9-46
+Added Pin To Net: NetName=GND Pin=PMOS_U_EMI_Prot_Circ1-G
+Added Pin To Net: NetName=GND Pin=PMOS_U_EMI_Prot_Circ2-G
+Added Net: Name=GND
+Added Pin To Net: NetName=GPIO0_27 Pin=P8-17
+Added Net: Name=GPIO0_27
+Added Pin To Net: NetName=GPIO1_12 Pin=P8-12
+Added Net: Name=GPIO1_12
+Added Pin To Net: NetName=GPIO1_29 Pin=P8-26
+Added Net: Name=GPIO1_29
+Added Pin To Net: NetName=GPIO2_1 Pin=P8-18
+Added Net: Name=GPIO2_1
+Added Pin To Net: NetName=I2C2_SCL Pin=P9-19
+Added Net: Name=I2C2_SCL
+Added Pin To Net: NetName=I2C2_SDA Pin=P9-20
+Added Net: Name=I2C2_SDA
+Added Pin To Net: NetName=MMC1_DAT2 Pin=P8-5
+Added Net: Name=MMC1_DAT2
+Added Pin To Net: NetName=MMC1_DAT4 Pin=P8-23
+Added Net: Name=MMC1_DAT4
+Added Pin To Net: NetName=MMC1_DAT7 Pin=P8-4
+Added Net: Name=MMC1_DAT7
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=BAT_IN-1
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=C1_U_5v_REG_1-1
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=C1_U_5v_REG_2-1
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=C1_U_EMI_Prot_1-2
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=C1_U_EMI_Prot_2-2
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=C1_U_EMI_Prot_Circ3-2
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=C2_U_5v_REG_1-1
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=C2_U_5v_REG_2-1
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=C2_U_EMI_Prot_1-2
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=C2_U_EMI_Prot_2-2
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=C2_U_EMI_Prot_Circ3-2
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=C3_U_5v_REG_1-1
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=C3_U_5v_REG_2-1
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=C4_U_5v_REG_1-1
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=C4_U_5v_REG_2-1
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=C13-1
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=C33-1
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=C36-1
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=CANC1-5
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=CANC2-5
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=LM2678-5_U_5v_REG_1-GND
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=LM2678-5_U_5v_REG_2-GND
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=PMOS_U_EMI_Prot_1-G
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=PMOS_U_EMI_Prot_2-G
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=PMOS_U_EMI_Prot_Circ3-G
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=R42-1
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=Reg1-1
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=Reg2-1
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=Schott_D1_U_5v_REG_1-2
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=Schott_D1_U_5v_REG_2-2
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=TanCap1_U_5v_REG_1-2
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=TanCap1_U_5v_REG_2-2
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=TanCap2_U_5v_REG_1-2
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=TanCap2_U_5v_REG_2-2
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=TanCap3_U_5v_REG_1-2
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=TanCap3_U_5v_REG_2-2
+Added Net: Name=NetBAT_IN_1
+Added Pin To Net: NetName=NetBAT_IN_2 Pin=BAT_IN-2
+Added Pin To Net: NetName=NetBAT_IN_2 Pin=J_Bat-1
+Added Net: Name=NetBAT_IN_2
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=R1-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC1_U_5v_REG_1_2 Pin=C1_U_5v_REG_1-2
+Added Pin To Net: NetName=NetC1_U_5v_REG_1_2 Pin=C2_U_5v_REG_1-2
+Added Pin To Net: NetName=NetC1_U_5v_REG_1_2 Pin=C3_U_5v_REG_1-2
+Added Pin To Net: NetName=NetC1_U_5v_REG_1_2 Pin=C4_U_5v_REG_1-2
+Added Pin To Net: NetName=NetC1_U_5v_REG_1_2 Pin=J_12V1-2
+Added Net: Name=NetC1_U_5v_REG_1_2
+Added Pin To Net: NetName=NetC1_U_5v_REG_2_2 Pin=C1_U_5v_REG_2-2
+Added Pin To Net: NetName=NetC1_U_5v_REG_2_2 Pin=C2_U_5v_REG_2-2
+Added Pin To Net: NetName=NetC1_U_5v_REG_2_2 Pin=C3_U_5v_REG_2-2
+Added Pin To Net: NetName=NetC1_U_5v_REG_2_2 Pin=C4_U_5v_REG_2-2
+Added Pin To Net: NetName=NetC1_U_5v_REG_2_2 Pin=J_12V2-2
+Added Net: Name=NetC1_U_5v_REG_2_2
+Added Pin To Net: NetName=NetC1_U_EMI_Prot_1_1 Pin=C1_U_EMI_Prot_1-1
+Added Pin To Net: NetName=NetC1_U_EMI_Prot_1_1 Pin=C1_U_EMI_Prot_2-1
+Added Pin To Net: NetName=NetC1_U_EMI_Prot_1_1 Pin=C1_U_EMI_Prot_Circ1-1
+Added Pin To Net: NetName=NetC1_U_EMI_Prot_1_1 Pin=C1_U_EMI_Prot_Circ2-1
+Added Pin To Net: NetName=NetC1_U_EMI_Prot_1_1 Pin=C1_U_EMI_Prot_Circ3-1
+Added Pin To Net: NetName=NetC1_U_EMI_Prot_1_1 Pin=J_Bat-2
+Added Pin To Net: NetName=NetC1_U_EMI_Prot_1_1 Pin=J_Cbat1-2
+Added Pin To Net: NetName=NetC1_U_EMI_Prot_1_1 Pin=J_Cbat2-2
+Added Pin To Net: NetName=NetC1_U_EMI_Prot_1_1 Pin=LFer_Lai_U_EMI_Prot_1-1
+Added Pin To Net: NetName=NetC1_U_EMI_Prot_1_1 Pin=LFer_Lai_U_EMI_Prot_2-1
+Added Pin To Net: NetName=NetC1_U_EMI_Prot_1_1 Pin=LFerr_M_U_EMI_Prot_Circ1-1
+Added Pin To Net: NetName=NetC1_U_EMI_Prot_1_1 Pin=LFerr_M_U_EMI_Prot_Circ2-1
+Added Pin To Net: NetName=NetC1_U_EMI_Prot_1_1 Pin=LFerr_M_U_EMI_Prot_Circ3-1
+Added Net: Name=NetC1_U_EMI_Prot_1_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=C22-2
+Added Pin To Net: NetName=NetC2_2 Pin=L1_U_5v_REG_1-2
+Added Pin To Net: NetName=NetC2_2 Pin=Reg2-2
+Added Pin To Net: NetName=NetC2_2 Pin=TanCap1_U_5v_REG_1-1
+Added Pin To Net: NetName=NetC2_2 Pin=TanCap2_U_5v_REG_1-1
+Added Pin To Net: NetName=NetC2_2 Pin=TanCap3_U_5v_REG_1-1
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC2_U_EMI_Prot_1_1 Pin=C2_U_EMI_Prot_1-1
+Added Pin To Net: NetName=NetC2_U_EMI_Prot_1_1 Pin=LFer_Lai_U_EMI_Prot_1-2
+Added Pin To Net: NetName=NetC2_U_EMI_Prot_1_1 Pin=PMOS_U_EMI_Prot_1-D
+Added Net: Name=NetC2_U_EMI_Prot_1_1
+Added Pin To Net: NetName=NetC2_U_EMI_Prot_2_1 Pin=C2_U_EMI_Prot_2-1
+Added Pin To Net: NetName=NetC2_U_EMI_Prot_2_1 Pin=LFer_Lai_U_EMI_Prot_2-2
+Added Pin To Net: NetName=NetC2_U_EMI_Prot_2_1 Pin=PMOS_U_EMI_Prot_2-D
+Added Net: Name=NetC2_U_EMI_Prot_2_1
+Added Pin To Net: NetName=NetC2_U_EMI_Prot_Circ1_1 Pin=C2_U_EMI_Prot_Circ1-1
+Added Pin To Net: NetName=NetC2_U_EMI_Prot_Circ1_1 Pin=LFerr_M_U_EMI_Prot_Circ1-2
+Added Pin To Net: NetName=NetC2_U_EMI_Prot_Circ1_1 Pin=PMOS_U_EMI_Prot_Circ1-D
+Added Net: Name=NetC2_U_EMI_Prot_Circ1_1
+Added Pin To Net: NetName=NetC2_U_EMI_Prot_Circ2_1 Pin=C2_U_EMI_Prot_Circ2-1
+Added Pin To Net: NetName=NetC2_U_EMI_Prot_Circ2_1 Pin=LFerr_M_U_EMI_Prot_Circ2-2
+Added Pin To Net: NetName=NetC2_U_EMI_Prot_Circ2_1 Pin=PMOS_U_EMI_Prot_Circ2-D
+Added Net: Name=NetC2_U_EMI_Prot_Circ2_1
+Added Pin To Net: NetName=NetC2_U_EMI_Prot_Circ3_1 Pin=C2_U_EMI_Prot_Circ3-1
+Added Pin To Net: NetName=NetC2_U_EMI_Prot_Circ3_1 Pin=LFerr_M_U_EMI_Prot_Circ3-2
+Added Pin To Net: NetName=NetC2_U_EMI_Prot_Circ3_1 Pin=PMOS_U_EMI_Prot_Circ3-D
+Added Net: Name=NetC2_U_EMI_Prot_Circ3_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=C13-2
+Added Pin To Net: NetName=NetC3_2 Pin=C32-2
+Added Pin To Net: NetName=NetC3_2 Pin=R11-2
+Added Pin To Net: NetName=NetC3_2 Pin=R34-2
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=R2-1
+Added Pin To Net: NetName=NetC4_2 Pin=R3-2
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=CANC2-7
+Added Pin To Net: NetName=NetC5_2 Pin=R2-2
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=CANC2-2
+Added Pin To Net: NetName=NetC6_2 Pin=R3-1
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC21_2 Pin=C21-2
+Added Pin To Net: NetName=NetC21_2 Pin=R21-2
+Added Net: Name=NetC21_2
+Added Pin To Net: NetName=NetC25_2 Pin=C25-2
+Added Pin To Net: NetName=NetC25_2 Pin=CANC1-7
+Added Pin To Net: NetName=NetC25_2 Pin=R22-2
+Added Net: Name=NetC25_2
+Added Pin To Net: NetName=NetC26_2 Pin=C26-2
+Added Pin To Net: NetName=NetC26_2 Pin=CANC1-2
+Added Pin To Net: NetName=NetC26_2 Pin=R23-1
+Added Net: Name=NetC26_2
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Pin To Net: NetName=NetC33_2 Pin=LFerrite-1
+Added Net: Name=NetC33_2
+Added Pin To Net: NetName=NetC36_2 Pin=C36-2
+Added Pin To Net: NetName=NetC36_2 Pin=PMOS_U_EMI_Prot_Circ3-S
+Added Net: Name=NetC36_2
+Added Pin To Net: NetName=NetC42_2 Pin=C42-2
+Added Pin To Net: NetName=NetC42_2 Pin=R22-1
+Added Pin To Net: NetName=NetC42_2 Pin=R23-2
+Added Net: Name=NetC42_2
+Added Pin To Net: NetName=NetCANC1_9 Pin=CANC1-9
+Added Pin To Net: NetName=NetCANC1_9 Pin=J_Cbat2-1
+Added Net: Name=NetCANC1_9
+Added Pin To Net: NetName=NetCANC2_9 Pin=CANC2-9
+Added Pin To Net: NetName=NetCANC2_9 Pin=J_Cbat1-1
+Added Net: Name=NetCANC2_9
+Added Pin To Net: NetName=NetCc1_U_5v_REG_1_1 Pin=Cc1_U_5v_REG_1-1
+Added Net: Name=NetCc1_U_5v_REG_1_1
+Added Pin To Net: NetName=NetCc1_U_5v_REG_1_2 Pin=Cc1_U_5v_REG_1-2
+Added Pin To Net: NetName=NetCc1_U_5v_REG_1_2 Pin=L1_U_5v_REG_1-1
+Added Pin To Net: NetName=NetCc1_U_5v_REG_1_2 Pin=Schott_D1_U_5v_REG_1-1
+Added Pin To Net: NetName=NetCc1_U_5v_REG_1_2 Pin=Schott_D1_U_5v_REG_1-1
+Added Net: Name=NetCc1_U_5v_REG_1_2
+Added Pin To Net: NetName=NetCc1_U_5v_REG_2_1 Pin=Cc1_U_5v_REG_2-1
+Added Net: Name=NetCc1_U_5v_REG_2_1
+Added Pin To Net: NetName=NetCc1_U_5v_REG_2_2 Pin=Cc1_U_5v_REG_2-2
+Added Pin To Net: NetName=NetCc1_U_5v_REG_2_2 Pin=L1_U_5v_REG_2-1
+Added Pin To Net: NetName=NetCc1_U_5v_REG_2_2 Pin=Schott_D1_U_5v_REG_2-1
+Added Pin To Net: NetName=NetCc1_U_5v_REG_2_2 Pin=Schott_D1_U_5v_REG_2-1
+Added Net: Name=NetCc1_U_5v_REG_2_2
+Added Net: Name=NetCMC2_IN1
+Added Net: Name=NetCMC2_IN2
+Added Net: Name=NetCMC_IN1
+Added Net: Name=NetCMC_IN2
+Added Pin To Net: NetName=NetJ_12V1_1 Pin=J_12V1-1
+Added Pin To Net: NetName=NetJ_12V1_1 Pin=PMOS_U_EMI_Prot_1-S
+Added Net: Name=NetJ_12V1_1
+Added Pin To Net: NetName=NetJ_12V2_1 Pin=J_12V2-1
+Added Pin To Net: NetName=NetJ_12V2_1 Pin=PMOS_U_EMI_Prot_2-S
+Added Net: Name=NetJ_12V2_1
+Added Pin To Net: NetName=NetJ_EN1_1 Pin=J_EN1-1
+Added Pin To Net: NetName=NetJ_EN1_1 Pin=J_EN2-1
+Added Pin To Net: NetName=NetJ_EN1_1 Pin=R14-2
+Added Pin To Net: NetName=NetJ_EN1_1 Pin=R42-2
+Added Net: Name=NetJ_EN1_1
+Added Pin To Net: NetName=NetJ_EN1_2 Pin=J_EN1-2
+Added Net: Name=NetJ_EN1_2
+Added Pin To Net: NetName=NetJ_EN2_2 Pin=J_EN2-2
+Added Net: Name=NetJ_EN2_2
+Added Pin To Net: NetName=NetJ_INH2_1 Pin=J_INH2-1
+Added Pin To Net: NetName=NetJ_INH2_1 Pin=J_INH-1
+Added Pin To Net: NetName=NetJ_INH2_1 Pin=R14-1
+Added Net: Name=NetJ_INH2_1
+Added Pin To Net: NetName=NetJ_INH2_2 Pin=J_INH2-2
+Added Net: Name=NetJ_INH2_2
+Added Pin To Net: NetName=NetJ_INH_2 Pin=J_INH-2
+Added Net: Name=NetJ_INH_2
+Added Pin To Net: NetName=NetL1_U_5v_REG_2_2 Pin=L1_U_5v_REG_2-2
+Added Pin To Net: NetName=NetL1_U_5v_REG_2_2 Pin=R34-1
+Added Pin To Net: NetName=NetL1_U_5v_REG_2_2 Pin=Reg1-2
+Added Pin To Net: NetName=NetL1_U_5v_REG_2_2 Pin=TanCap1_U_5v_REG_2-1
+Added Pin To Net: NetName=NetL1_U_5v_REG_2_2 Pin=TanCap2_U_5v_REG_2-1
+Added Pin To Net: NetName=NetL1_U_5v_REG_2_2 Pin=TanCap3_U_5v_REG_2-1
+Added Net: Name=NetL1_U_5v_REG_2_2
+Added Pin To Net: NetName=NetLFerrite_2 Pin=LFerrite-2
+Added Pin To Net: NetName=NetLFerrite_2 Pin=LIN_Conn-1
+Added Net: Name=NetLFerrite_2
+Added Pin To Net: NetName=NetPMOS_U_EMI_Prot_Circ1_S Pin=PMOS_U_EMI_Prot_Circ1-S
+Added Pin To Net: NetName=NetPMOS_U_EMI_Prot_Circ1_S Pin=R1-1
+Added Net: Name=NetPMOS_U_EMI_Prot_Circ1_S
+Added Pin To Net: NetName=NetPMOS_U_EMI_Prot_Circ2_S Pin=PMOS_U_EMI_Prot_Circ2-S
+Added Pin To Net: NetName=NetPMOS_U_EMI_Prot_Circ2_S Pin=R21-1
+Added Net: Name=NetPMOS_U_EMI_Prot_Circ2_S
+Added Pin To Net: NetName=SYS_5V Pin=P9-7
+Added Pin To Net: NetName=SYS_5V Pin=P9-8
+Added Net: Name=SYS_5V
+Added Pin To Net: NetName=UART1_RXD Pin=P9-26
+Added Net: Name=UART1_RXD
+Added Pin To Net: NetName=UART1_TXD Pin=P9-24
+Added Net: Name=UART1_TXD
+Added Pin To Net: NetName=UART2_RXD Pin=P9-22
+Added Pin To Net: NetName=UART2_RXD Pin=R11-1
+Added Net: Name=UART2_RXD
+Added Pin To Net: NetName=UART2_TXD Pin=P9-21
+Added Net: Name=UART2_TXD
+Added Pin To Net: NetName=VDD_3V3B Pin=P9-3
+Added Pin To Net: NetName=VDD_3V3B Pin=P9-4
+Added Net: Name=VDD_3V3B
+Added Pin To Net: NetName=VDD_5V Pin=P9-5
+Added Pin To Net: NetName=VDD_5V Pin=P9-6
+Added Net: Name=VDD_5V
+Added Pin To Net: NetName=VDD_ADC Pin=P9-32
+Added Net: Name=VDD_ADC
+Added Class: Name=CAN1
+Added Class: Name=CAN2
+Added Class: Name=U_5v_REG_1
+Added Class: Name=U_5v_REG_2
+Added Class: Name=U_Circuit_comp
+Added Class: Name=U_EMI_Prot_1
+Added Class: Name=U_EMI_Prot_2
+Added Class: Name=U_EMI_Prot_Circ1
+Added Class: Name=U_EMI_Prot_Circ2
+Added Class: Name=U_EMI_Prot_Circ3
+Added Class: Name=U_Header_Conn
+Added Class: Name=U_LIN
+Added Class: Name=U_Power_Sources
+Added Class: Name=5v_REG_1
+Added Class: Name=EMI_Prot
+Added Class: Name=EMI_Prot_Circ

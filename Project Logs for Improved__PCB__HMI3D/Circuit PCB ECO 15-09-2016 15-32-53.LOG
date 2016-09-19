@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetLFerrite_2 Pin=LIN-1
+Added Component: Designator=LIN_Conn(HDR1X2)
+Added Pin To Net: NetName=NetLFerrite_2 Pin=LIN_Conn-1
+Added Pin To Net: NetName=GND Pin=LIN_Conn-2

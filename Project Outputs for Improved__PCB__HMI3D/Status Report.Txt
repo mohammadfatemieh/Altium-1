@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Improved__PCB__HMI3D.PrjPCB]
+   Generated File[Circuit.TXT]
+   Generated File[Circuit.LDP]
+   Generated File[Circuit.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 17:10:53 On 19/09/2016

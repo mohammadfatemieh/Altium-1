@@ -1,0 +1,17 @@
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=C1-1
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=C2-1
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=C3-1
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=C4-1
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=C5-1
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=C6-1
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=C21-1
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=C22-1
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=C25-1
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=C26-1
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=C32-1
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=C42-1
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=PESD1CAN2-O1
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=PESD1CAN-O1
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=TJA1043-1-WAKE
+Added Pin To Net: NetName=NetBAT_IN_1 Pin=TJA10432-WAKE
+Change Net Name : Old Net Name=NetBAT_IN_1 New Net Name=GND

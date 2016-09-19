@@ -1,0 +1,68 @@
+Bill of Material for 
+On 09/09/2016 at 12:47:24
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+  3.3V               Zener_Diode      1    DZen1                        Zener Diode 3.3V     
+                     CMC              2    CMC, CMC2                    Common mode choke: DR331-475BE 
+                     LFerrite         1    LFerrite                     TDK Ferrite chip bead for signal line 
+                     LFerrite_Laird    2    LFer_Lai_U_EMI_Prot_1        Laird ferrite chip bead 
+                                           LFer_Lai_U_EMI_Prot_2
+                     LFERRITE_MURATA_BLM21A    3    LFerr_M_U_EMI_Prot_Circ1     Murata ferrite chip bead - BLE32PN300SN1L 
+                                           LFerr_M_U_EMI_Prot_Circ2
+                                           LFerr_M_U_EMI_Prot_Circ3
+                     M_Hole           4    M_Hole1, M_Hole2, M_Hole3    3M mounting hole     
+                                           M_Hole4
+                     PMOS             5    PMOS_U_EMI_Prot_1            P channel Mosfet     
+                                           PMOS_U_EMI_Prot_2
+                                           PMOS_U_EMI_Prot_Circ1
+                                           PMOS_U_EMI_Prot_Circ2
+                                           PMOS_U_EMI_Prot_Circ3
+                     Schottky_diode    2    Schott_D1_U_5v_REG_1         Schottky barrier rectifier 
+                                           Schott_D1_U_5v_REG_2
+                     SOD323-PESD1LIN    1    PESD1LIN                     LIN-bus ESD protection diodes 
+                     SOIC14-TJA1043    2    TJA1043-1, TJA10432          CAN transceiver      
+                     SOIC8-TJA1027    1    TJA1027                      LIN transceiver      
+                     SOT32-PESD1CAN    2    PESD1CAN, PESD1CAN2          CAN bus ESD protection diode 
+                     TO2207-LM2678    2    LM2678-5_U_5v_REG_1          5V/5A step down regulator LM2678-2207-5V 
+                                           LM2678-5_U_5v_REG_2
+ 0.01u               CAP_0805         2    Cc1_U_5v_REG_1               Capacitor            
+                                           Cc1_U_5v_REG_2
+ 100n                CAP_0805         6    C1_U_EMI_Prot_1              Capacitor            
+                                           C1_U_EMI_Prot_2
+                                           C1_U_EMI_Prot_Circ1
+                                           C1_U_EMI_Prot_Circ2
+                                           C1_U_EMI_Prot_Circ3, C36
+ 100p                CAP_0805         4    C5, C6, C25, C26             Capacitor            
+ 10K                 RES_0805         2    R11, R34                     Resistor             
+ 10n                 CAP_0805         2    C1, C21                      Capacitor            
+ 10u                 CAP_0805         8    C1_U_5v_REG_1, C1_U_5v_REG_2 Capacitor            
+                                           C2_U_5v_REG_1, C2_U_5v_REG_2
+                                           C3_U_5v_REG_1, C3_U_5v_REG_2
+                                           C4_U_5v_REG_1, C4_U_5v_REG_2
+ 150u                CAP_TANT         6    TanCap1_U_5v_REG_1           Tantalum Capacitor by Kemet 
+                                           TanCap1_U_5v_REG_2
+                                           TanCap2_U_5v_REG_1
+                                           TanCap2_U_5v_REG_2
+                                           TanCap3_U_5v_REG_1
+                                           TanCap3_U_5v_REG_2
+ 15u                 Inductor_reg     2    L1_U_5v_REG_1, L1_U_5v_REG_2 Inductor             
+ 1K                  RES_0805         2    R1, R21                      Resistor             
+ 1u                  CAP_0805         5    C2_U_EMI_Prot_1              Capacitor            
+                                           C2_U_EMI_Prot_2
+                                           C2_U_EMI_Prot_Circ1
+                                           C2_U_EMI_Prot_Circ2
+                                           C2_U_EMI_Prot_Circ3
+ 220p                CAP_0805         1    C33                          Capacitor            
+ 2K                  RES_0805         1    R42                          Resistor             
+ 3K                  RES_0805         1    R14                          Resistor             
+ 47n                 CAP_0805         5    C2, C3, C13, C22, C32        Capacitor            
+ 5.6n                CAP_0805         2    C4, C42                      Capacitor            
+ 60                  RES_0805         4    R2, R3, R22, R23             Resistor             
+ D9                  DSUB1.385-2H9    2    CANC1, CANC2                 Receptacle Assembly, 9 Position, Right Angle 
+ Header 2            HDR1X2          12    BAT_IN, J_12V1, J_12V2, J_Bat Header, 2-Pin        
+                                           J_Cbat1, J_Cbat2, J_EN1
+                                           J_EN2, J_INH, J_INH2
+                                           Reg1_conn, Reg2_conn
+ MALE-2x23           Beagle_Header    2    P8, P9                       MALE HEADER 2x23     
+ Plug                PIN1             1    LIN_Conn                     Plug                 

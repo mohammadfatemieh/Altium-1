@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=Reg1 NewDesignator=Reg2
+Change Component Designator: OldDesignator=Reg2 NewDesignator=Reg1
+Added Component: Designator=Reg1_conn(HDR1X2)
+Added Component: Designator=Reg2_conn(HDR1X2)
+Added Pin To Net: NetName=NetC2_2 Pin=Reg1_conn-1
+Added Pin To Net: NetName=GND Pin=Reg1_conn-2
+Added Pin To Net: NetName=NetL1_U_5v_REG_2_2 Pin=Reg2_conn-1
+Added Pin To Net: NetName=GND Pin=Reg2_conn-2
